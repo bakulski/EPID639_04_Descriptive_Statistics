@@ -1,7 +1,11 @@
 ---
-title: "EPID639_HW_10_Answer_Key"
+title: "EPID 639: Univariate Statistics"
+subtitle: "Homework 10"
+author: "Kelly Bakulski, Huda Bashir, Joe Wardell"
+date: "Last compiled on `r format(Sys.Date(), '%B %d, %Y')`"
 format: html
-editor: visual
+embed-resources: true
+editor: source
 ---
 
 # Load libraries
